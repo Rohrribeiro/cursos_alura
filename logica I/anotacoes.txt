@@ -1,0 +1,20 @@
+Lógica de Programação I
+
+DICAS DE PRODUTIVIDADE
+- Usar o live Server pra simular um servidor e não precisar ficar salvando e recarregando a pagina enquanto a constróis. ( Precisa ter a estrutura mínima de um doc HTML pra funcionar direito.)
+- Em partes de código que se repetem muitas vezes, criamos variáveis, assim, caso a gente precise futuramente modificar, mudando na variável, conseguimos alterar em todos os trechos do código.
+- Usar o Console do navegador para debugar código e encontrar possíveis erros. (ALT+CMD+J)
+- Escrevendo log, o editor completa console.log()
+
+CONVENÇÃO E BOAS PRATICAS
+- Escrever nome de arquivos com letras minúsculas e quando tiver mais de uma palavra usar “_” para separa-las.
+
+HTML
+
+<br> => break => quebra de linha
+<h1> => heading => destaque, neste caso é o conteúdo principal da pagina.
+<script> => tag que da acesso ao mundo javascript
+
+Javascript
+
+alert(“Mensagem”); => mostra um popup na tela com a mensagem do parâmetro.
